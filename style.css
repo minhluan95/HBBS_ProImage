@@ -1,0 +1,27 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #E6E7E8 !important;
+}
+.space{
+    margin-bottom: 20px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+.text-center{
+	color: #DAA742;
+}
+.list-img{
+	list-style-type: none;
+}
+.list-img li{
+	display: inline;
+	padding-right: 5px;
+}
+.img-cicle{
+	height: 50px;
+	width: 50px;
+}
